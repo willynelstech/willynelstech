@@ -14,11 +14,7 @@ An IT Specialist and Cybersecurity professional with a strong foundation in netw
 
 ### 🚀 Featured Homelab & Network Projects
 * **[Enterprise Multi-VLAN Topology (Packet Tracer)](https://github.com/YOUR_USERNAME/YOUR_REPO)**  
-  * *Architecture:* Designed a multi-switch enterprise topology using L3 Multilayer Switches, VLANs 10–40, point-to-point transit links, and OSPF dynamic routing.
-  * *Focus:* Troubleshooting inter-VLAN routing, SVI configuration, and link aggregation.
 * **[Windows Event Logs & Sysmon Ingestion Lab](https://github.com/YOUR_USERNAME/YOUR_REPO)**  
-  * *Architecture:* Deployed local Sysmon telemetry forwarding into a SIEM pipeline.
-  * *Focus:* Writing custom search queries (SPL) to track process execution, network connections, and anomalous parent-child process chains.
 
 ---
 
