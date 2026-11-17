@@ -13,8 +13,7 @@ An IT Specialist and Cybersecurity professional with a strong foundation in netw
 ---
 
 ### 🚀 Featured Homelab & Network Projects
-* **[Enterprise Multi-VLAN Topology (Packet Tracer)](https://github.com/YOUR_USERNAME/YOUR_REPO)**  
-* **[Windows Event Logs & Sysmon Ingestion Lab](https://github.com/YOUR_USERNAME/YOUR_REPO)**  
+* **[Containerized Infrastructure over Zero Trust mesh VPN](https://github.com/YOUR_USERNAME/YOUR_REPO)**   
 
 ---
 
