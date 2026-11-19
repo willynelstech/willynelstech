@@ -12,8 +12,8 @@ An IT Specialist and Cybersecurity professional with a strong foundation in netw
 
 ---
 
-### 🚀 Featured Homelab & Network Projects
-* **[Containerized Homelab & Zero Trust Mesh (Docker + Tailscale)](https://github.com/willynelstech/docker-tailscale-homelab)**
+### 🚀 Homelab & Network Projects
+* **[Self-Hosted Media & Photo Cloud with Zero-Trust Remote Access](https://github.com/willynelstech/docker-tailscale-homelab)**
 
 ---
 
