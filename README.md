@@ -6,7 +6,7 @@ IT Specialist and Cybersecurity graduate (B.S., WGU) with hands-on experience in
 
 ### 🛠️ Technical Stack & Core Competencies
 - **Networking (Lab & Study):** Cisco IOS basics, VLANs, Inter-VLAN Routing (SVIs), OSPF, subnetting, and Tailscale mesh networking.
-- **Systems & Admin:** Windows 10/11, Linux CLI, Docker, Portainer, Active Directory basics, M365, and `/etc/fstab` storage mounting.
+- **Systems & Admin:** Windows 10/11, Linux CLI, Docker, Portainer, Active Directory basics, and Microsoft 365
 - **Security & Compliance:** Least privilege, Zero Trust concepts, CUI/PII handling, and RMF/NIST awareness.
 - **Tools & Platforms:** Cisco Packet Tracer, HP Service Manager (HPSM), MECM, Forescout, Git / GitHub.
 
