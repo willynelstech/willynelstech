@@ -22,4 +22,4 @@ An IT Specialist and Cybersecurity professional with a strong foundation in netw
 * **Certifications:** CompTIA Security+, Network+, A+, CySA+, PenTest+ 
 * **Education:** B.S. in Cybersecurity and Information Assurance — Western Governors University (WGU)
 
-📫 **Connect with me:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/william-nelson-543040147/)) | [Email](mailto:william.nelson31@outlook.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/william-nelson-543040147/) | [Email](mailto:william.nelson31@outlook.com)
